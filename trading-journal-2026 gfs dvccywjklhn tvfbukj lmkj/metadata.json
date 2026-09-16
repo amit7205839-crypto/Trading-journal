@@ -1,0 +1,8 @@
+{
+  "name": "Trading Journal 2026",
+  "description": "A binary options and financial trading journal with Supabase database sync, analytics, trade performance tracking, and CSV import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
